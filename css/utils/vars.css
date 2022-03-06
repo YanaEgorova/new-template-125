@@ -1,0 +1,23 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --inactive: rgb(161, 161, 161);
+    --accent-color: red;
+    --checkbox-color: #6699ff;
+
+    --main-text-color: #000;
+
+    
+    --first-brand-color: #e6e6e6;
+    --second-brand-color: #272727;
+    --third-brand-color: #ff2229;
+    --fourth-brand-color:#ebed26;
+
+
+    --main-font: 'Montserrat';
+    --title-font: 'Oswald';
+    --main-title-font: 'Anton';
+    
+    font-size: 62.5%;
+}
